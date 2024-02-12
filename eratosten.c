@@ -27,5 +27,7 @@ int main()
         }
     }
 
+    free(arr);
+
     return EXIT_SUCCESS;
 }
