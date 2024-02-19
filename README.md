@@ -5,3 +5,6 @@
 ## Първо упражнение
 - Проверка на число дали е просто чрез тривиална проверка за наличност на делители [is_prime.c](https://github.com/peshopbs2/UAZ24_KST8_CompSec/blob/main/is_prime.c)
 - Решето на Ератостен [eratosten.c](https://github.com/peshopbs2/UAZ24_KST8_CompSec/blob/main/eratosten.c)
+
+## Второ упражнение
+- Цезаров шифър [caesar_cypher.c](https://github.com/peshopbs2/UAZ24_KST8_CompSec/blob/main/caesar_cypher.c)
