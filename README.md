@@ -22,8 +22,8 @@
 ```
 
 ## Четвърто упражнение
-- Разбиване на Цезаров шифър с пермутации
-- Разбиване на Цезаров шифър с анализ на честотата
+- Разбиване на Цезаров шифър с пермутации [caesar_bruteforce.c](https://github.com/peshopbs2/UAZ24_KST8_CompSec/blob/main/caesar_bruteforce.c)
+- Разбиване на Цезаров шифър с анализ на честотата [ceasar_frequency_decode.c](https://github.com/peshopbs2/UAZ24_KST8_CompSec/blob/main/ceasar_frequency_decode.c)
 
 ## Пето упражнение
 - Шифър на Виженер
