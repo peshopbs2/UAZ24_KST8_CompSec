@@ -26,8 +26,8 @@
 - Разбиване на Цезаров шифър с анализ на честотата [ceasar_frequency_decode.c](https://github.com/peshopbs2/UAZ24_KST8_CompSec/blob/main/ceasar_frequency_decode.c)
 
 ## Пето упражнение
-- Шифър на Виженер
-- Разкодиране на шифър на Виженер
+- Шифър на Виженер [vigenere_cypher.c](https://github.com/peshopbs2/UAZ24_KST8_CompSec/blob/main/vigenere_cypher.c)
+- Разкодиране на шифър на Виженер [vigenere_decrypt.c](https://github.com/peshopbs2/UAZ24_KST8_CompSec/blob/main/vigenere_decrypt.c)
 
 ```
 Домашна работа:
