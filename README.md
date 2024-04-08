@@ -41,10 +41,10 @@
 - Контролна
 
 ## Седмо упражнение
-- Работа с OpenSSL - криптиране с DES
+- Работа с OpenSSL - криптиране с DES [des_encrypt.c](https://github.com/peshopbs2/UAZ24_KST8_CompSec/blob/main/des_encrypt.c)
 
 ## Осмо упражнение
-- Работа с OpenSSL - декриптиране с DES
+- Работа с OpenSSL - декриптиране с DES [des_decrypt.c](https://github.com/peshopbs2/UAZ24_KST8_CompSec/blob/main/des_encrypt.c)
 
 ## Девето упражнение
 - Работа с OpenSSL - генериране на RSA ключ
