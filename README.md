@@ -51,7 +51,7 @@
 - Работа с OpenSSL - криптиране с RSA [rsa_encrypt_key.c](https://github.com/peshopbs2/UAZ24_KST8_CompSec/blob/main/rsa_encrypt_key.c)
 
 ## Десето упражнение
-- Декриптиране с RSA
+- Декриптиране с RSA [rsa_decrypt.c](https://github.com/peshopbs2/UAZ24_KST8_CompSec/blob/main/rsa_decrypt.c)
 
 ## Единадесето упражнение
 - Хеширане с MD5 и SHA-алгоритмите
